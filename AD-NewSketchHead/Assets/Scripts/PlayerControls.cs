@@ -49,7 +49,7 @@ public class PlayerControls : MonoBehaviour
         rb.velocity = new Vector3(rb.velocity.x, downSpeed, 0);
     }
     public void OnTriggerEnter2D(Collider2D collision) {
-        GameObject.Find("DoodleHead").SetActive(false);
+        //GameObject.Find("DoodleHead").SetActive(false);
         GameObject.Find("GameController").GetComponent<GameController>().GameOver();
     }
 }
