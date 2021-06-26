@@ -666,7 +666,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 1157296756}
-  downSpeed: 20
+  downSpeed: 10
   movementSpeed: 10
   movement: 0
   scoreText: {fileID: 113447834}
