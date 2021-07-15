@@ -1162,5 +1162,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   platform: {fileID: 1135424968}
-  fakePlat: {fileID: 0}
+  fakePlat: {fileID: 1096539335}
   gameOverCanvas: {fileID: 1618127339}
